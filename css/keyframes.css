@@ -1,0 +1,21 @@
+@keyframes cen_keyframes_aparecer_arriba{
+    from{
+        opacity: 0;
+        top: -150px;
+    }
+    to{
+        opacity: 1;
+        top: 0;
+    }
+}
+
+@-webkit-keyframes cen_keyframes_aparecer_arriba{
+    from{
+        opacity: 0;
+        top: -150px;
+    }
+    to{
+        opacity: 1;
+        top: 0;
+    }
+}
